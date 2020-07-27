@@ -1,0 +1,19 @@
+1. Дистрибутивы:
+	Pycharm: https://www.jetbrains.com/pycharm/
+	Anaconda: https://www.anaconda.com/
+	
+	Альтернатива:
+	WinPython: https://winpython.github.io/
+	Python: https://www.python.org
+	
+2. Туториалы:
+	Python: https://docs.python.org/3/tutorial/
+	Numpy:
+			https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+			http://cs231n.github.io/python-numpy-tutorial/
+			https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.xfTo__4
+			https://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html
+	Matplotlib:
+			https://matplotlib.org/users/image_tutorial.html
+			http://www.pyimagesearch.com/2014/11/03/display-matplotlib-rgb-image/
+	

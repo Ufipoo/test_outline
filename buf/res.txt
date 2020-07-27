@@ -1,0 +1,20 @@
+Time:0.1370079517364502
+     fun: 2500.0
+ message: 'Optimization terminated successfully.'
+     nit: 5
+   slack: array([ 20.,   0., 360.,   0.])
+  status: 0
+ success: True
+       x: array([4., 9.])
+___________
+При изменение цены ([130, 250]) решение остается оптимальным: 2769.9999999999995
+________________________
+При изменение цены ([130, 300])  решение допустимое, но не оптимальное, => ищем новый оптимум: 
+     fun: 2860.0
+ message: 'Optimization terminated successfully.'
+     nit: 6
+   slack: array([290., 360., 900.,   0.])
+  status: 0
+ success: True
+       x: array([22.,  0.])
+________________________
